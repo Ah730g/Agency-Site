@@ -35,7 +35,7 @@ const Navbar = () => {
           onClick={() => setSidebarOpen(false)}
         />
         <a href="#" className="sm:hover:border-b">
-          Home
+          Homady
         </a>
         <a href="#services" className="sm:hover:border-b">
           Services
