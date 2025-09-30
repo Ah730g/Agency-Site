@@ -80,7 +80,7 @@ const Footer = () => {
         viewport={{ once: true }}
         className="flex justify-between items-center pb-6 flex-wrap gap-4 max-sm:justify-center"
       >
-        <p className="">Designed by Ahmed Senan, Inspired by GreatStack</p>
+        <p className="">Designed by HOmady Senan, Inspired by GreatStack</p>
         <ul className="flex gap-3">
           <img src={assets.facebook_icon} alt="" />
           <img src={assets.twitter_icon} alt="" />
