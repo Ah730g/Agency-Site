@@ -38,7 +38,7 @@ const Navbar = () => {
           Home
         </a>
         <a href="#services" className="sm:hover:border-b">
-          Services
+          Hamza
         </a>
         <a href="#ourWork" className="sm:hover:border-b">
           Our Work
